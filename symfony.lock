@@ -1,4 +1,5 @@
 
+{
     "cocur/slugify": {
         "version": "v3.1"
     },
